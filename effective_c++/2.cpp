@@ -38,6 +38,7 @@ int main() {
     cout<<MAX(++a, b+10)<<endl;           // a被累加一次
     a=5,b=0;
     cout<<Max(++a,b)<<endl;
+    system("pause");
 }
 
 
